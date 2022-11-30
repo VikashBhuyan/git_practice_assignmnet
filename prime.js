@@ -7,7 +7,7 @@ for(let i=0;i<num;i++)
 		count++
 	}
 }
-if(count==0)
+if(count==1)
 {
 	console.log("yes")
 }
